@@ -1,8 +1,5 @@
 # Virtual environement
 .venv
 
-# notebook
-*.ipynb
-
 # Cache
 __pycache__
